@@ -19,12 +19,12 @@ Aplikasi berbasis web yang dibuat guna menyelesaikan tugas akhir mata kuliah Pen
 Proyek ini berlisensi di bawah lisensi MIT.
 
 ## Kontributor
-Dzikri Maulana
-Ilham Arif Farabi
-Meissy Irania Putri
-Joyce R.F
-Mohammad Baharudin Yusuf
-M. Subhakti A Maulana
-Rendiarta R.A
-M.Ramadhan S.A
-Moh.Dicky Purnama
+Dzikri Maulana, 
+Ilham Arif Farabi, 
+Meissy Irania Putri, 
+Joyce R.F, 
+Mohammad Baharudin Yusuf, 
+M. Subhakti A Maulana, 
+Rendiarta R.A, 
+M.Ramadhan S.A, 
+Moh.Dicky Purnama, 
