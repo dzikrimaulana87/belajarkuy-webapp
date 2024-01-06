@@ -28,3 +28,7 @@ M. Subhakti A Maulana,
 Rendiarta R.A, 
 M.Ramadhan S.A, 
 Moh.Dicky Purnama, 
+
+Screenshot:
+<img width="947" alt="Screenshot 2024-01-07 064028" src="https://github.com/dzikrimaulana87/projectUasPKN/assets/45265319/16c1f7f1-d6d8-404a-b118-487a36825e2f">
+<img width="946" alt="Screenshot 2024-01-07 064045" src="https://github.com/dzikrimaulana87/projectUasPKN/assets/45265319/45f68971-b86b-48cc-9fd8-64068b2922be">
